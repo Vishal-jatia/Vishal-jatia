@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NNGEN-P Weather generator](https://github.com/Vishal-jatia/NNGEN-P)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **React and ML projects**
 
